@@ -12,7 +12,7 @@ hizmetlerini sağlamaktadır. Bu izahname ile BitLorem.com tarafından oluşturu
 LoremCoin (LRM) hakkında detaylı bilgiler sağlanmaktadır. LoremCoin, BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. tarafından oluşturulan
 blokzincir ve kripto varlıklara ait ekosistemin ayrılmaz bir parçası ve gücüdür. 
 
-Tanıtım
+Tanıtım:
 BitLorem, 2015 yılında bhdbtr.com olarak hizmet göstermeye başlamış ve daha sonra 2021 yılında alt yapısını 
 tasarımını güncelleyerek BitLorem.com olarak faaliyetlerine devam etmiştir. Dijital varlık alım satım platformunun
 tüm mimarisinin ekip tarafından oluşturulması ile platform üzerindeki hakimiyetin tamamen BitLorem’e ait olması ise 
@@ -21,3 +21,28 @@ varlık adaptasyonun artmasını hedeflemekteyiz ve desteklemekteyiz. Bu hedefte
 topluluğun fikirlerine açık ve inovatif olmasına önem vermekteyiz. Tüm bu gelişmelerimizin
 sonucunda elde ettiğimiz teknolojik tecrübeyi her alana yaymak ve BitLorem olarak geleceği
 şekillendirmek istiyoruz.
+
+
+Neden BitLorem?:
+BitLorem, kendi geliştirdiği ürünler ile fintek sektöründe global bir
+şirket olmayı hedeflemektedir.
+Misyonumuz: “Yeni Dünya teknolojilerinin sunduğu imkanlarla, dijital varlık odağında
+bir ekosistem yaratan, Türkiye’nin güncel ve güvenilir blockchain, kripto para gücü olmak.”
+Vizyonumuz: “Dünya üzerindeki en büyük 15 dijital varlık platformu statüsünde bir kripto para borsası
+ve kripto para birimi olmak.”
+Ekibimizin tamamı en eski 7 yıl olmak üzere kripto para ve blockchain alanında uzman kişilerden oluşmaktadır.
+BHDB Topluluğumuzun 16 yıllık geçmişi, piyasa takibi, analizi ve yönlendirici gücü ile kullanıcılarımıza en özel 
+hizmeti sağlamayı hedeflemekteyiz.
+
+Hizmetlerimiz:
+BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. olarak finansal teknolojiler, blockchain ve kripto para 
+alanında birçok servis sunmaktayız.
+Belirtilenlerle sınırlı olmamak kaydı ile servislerimiz şu şekildedir:
+(1) Dijital Varlık Alım-Satım Platformu Altyapısı: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti, güncel durumda yüz
+binlerce kullanıcıya kesintisiz ve güçlü hizmet verebilen BitLorem.com ürününün alt yapısını
+whitelabel olarak ihraç etmekteyiz.
+(b) Teknolojik Destek: Dijital varlık oluşturma ihtiyacı bulunan şirketlere ve bireylere çözümler
+sunmaktayız.
+(c) Ödeme Sistemleri: Firmamız bünyesinde ödeme sistemleri geliştirmekteyiz.
+(d) Eğitim Hizmetleri: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti, blockchain, kripto para ve analizleri konusunda edindiğimiz bilgi
+ve tecrübeleri kurum, kuruluş ve kamuoyuna aktarmaktayız.
