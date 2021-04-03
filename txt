@@ -93,7 +93,7 @@ protokolünü destekleyen tüm dijital varlık cüzdanlarında Lorem Coin (LRM) 
 Lorem Coin (LRM) 210,700,281,197 LRM adet oluşturulmuştur. 
 
 ● Toplam Arz Sistemi
-2021 Yılı Arz Miktarı => 2.500.000.000 LRM + Kampanya ve Pazarlama Bütçesi %50 - (*P1 %50 ) => 99.999.803/100.000.000
+2021 Yılı Arz Miktarı => 2.500.000.000 LRM + *Geliştirme, Kampanya ve Pazarlama Bütçesi %50 - (*P1 %50 ) => 99.999.803/100.000.000
 2022 Yılı Arz Miktarı => 5.000.000.000 LRM 
 2023 Yılı Arz Miktarı => 12.500.000.000 LRM
 2024 Yılı Arz Miktarı => 30.000.000.000 LRM
@@ -115,9 +115,12 @@ P1 ile alakalı genel bilgi. -Lorem Ormanları projemizi Haziran 2021 itibariyle
                             -81 ilde öğrenci bursu projesi Eylül 2021 itibariyle,
                             başlayacak olup proje hakkında projeler başladığı tarihte sosyal medya kanalı üzerinden projelerin her biri
                             için ayrı ayrı duyuru kanalları üzerinden Lorem ailesi ve BHDB ailesine şefaflık politikası gereği paylaşılacaktır. 
+Geliştirmeye devam ettiğimiz projeler 2021 yılı Kasım ayı içerisinde 2022 yılında uygulamaya koymak üzere açıklanacaktır.
 
 
-
+Lorem Coin (LRM) Blockchain
+Lorem Coin için planlanan Geliştirme, Kampanya ve Pazarlama Bütçesi %50 içinde yine gelişmiş coinlerde olduğu gibi kendi blockchain ağı ile tıpkı 
+bitcoin, ethereum, tron da olduğu gibi kendi ağ alt yapısına geçerek erc20 alt yapısından çıkacaktır.
 
 
 
