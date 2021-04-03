@@ -1,1 +1,15 @@
+LOREM Coin (LRM) 
+
+Önemli Bilgi:
+Bu belge, yayımlandığı gün itibari ile geçerlidir ve gelecekte de değişiklik gerçekleştirilebilir, bu gerekçe
+sebebi ile yapılacak güncellemeler ve değişikliklerin duyurulması zorunluluğu bulunmamaktadır.
+
+Ön Bilgi:
+BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. (BitLorem), Türkiye’de kayıtlı bir teknoloji şirketidir.
+BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti., dijital varlık alım satım platformu hizmetlerini BitLorem.com internet adresi
+üzerinden sunmaktadır. BitLorem.com; birçok dijital varlığın alım-satımı, saklanması ve transferi
+hizmetlerini sağlamaktadır. Bu izahname ile BitLorem.com tarafından oluşturulan hizmet tokeni
+LoremCoin (LRM) hakkında detaylı bilgiler sağlanmaktadır. LoremCoin, BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. tarafından oluşturulan
+blokzincir ve kripto varlıklara ait ekosistemin ayrılmaz bir parçası ve gücüdür. 
+
 
