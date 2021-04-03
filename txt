@@ -2,13 +2,14 @@ LOREM Coin (LRM) ve BitLorem Ekosistemi
 
 Önemli Bilgi:
 Bu belge, yayımlandığı gün itibari ile geçerlidir ve gelecekte de değişiklik gerçekleştirilebilir, bu gerekçe
-sebebi ile yapılacak güncellemeler ve değişikliklerin duyurulması zorunluluğu bulunmamaktadır.
+sebebi ile yapılacak güncellemeler ve değişikliklerin duyurulması zorunluluğu bulunmamaktadır. Bu döküman 
+https://github.com/LoremCoinLRM/White-Paper/edit/main/txt adresinde her zaman en güncel halindedir.
 
 Ön Bilgi:
 BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. (BitLorem), Türkiye’de kayıtlı bir teknoloji şirketidir.
 BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti., dijital varlık alım satım platformu hizmetlerini BitLorem.com internet adresi
 üzerinden sunmaktadır. BitLorem.com; birçok dijital varlığın alım-satımı, saklanması ve transferi
-hizmetlerini sağlamaktadır. Bu izahname ile BitLorem.com tarafından oluşturulan hizmet tokeni
+hizmetlerini sağlamaktadır. Bu izahname ile BitLorem.com tarafından oluşturulan hizmet,
 LoremCoin (LRM) hakkında detaylı bilgiler sağlanmaktadır. LoremCoin, BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. tarafından oluşturulan
 blokzincir ve kripto varlıklara ait ekosistemin ayrılmaz bir parçası ve gücüdür. 
 
@@ -20,32 +21,35 @@ operasyonel süreçteki özgürlüğümüzü sağlamaktadır. Bitcoin’in düş
 varlık adaptasyonun artmasını hedeflemekteyiz ve desteklemekteyiz. Bu hedefte; platformumuzun kullanıcı dostu,
 topluluğun fikirlerine açık ve inovatif olmasına önem vermekteyiz. Tüm bu gelişmelerimizin
 sonucunda elde ettiğimiz teknolojik tecrübeyi her alana yaymak ve BitLorem olarak geleceği
-şekillendirmek istiyoruz.
+şekillendirmek istiyoruz. Yine kullanıcılarımızın bizlere ulaştırdığı tavsiyeler ile beraber 2021 yılı içerisinde 
+toplam +10 kripto para birimini daha kullanıcılarımızın alım-satımına sunmak üzere çalışmalarda bulunacağımzı bildirmekten
+büyük memnuniyet duyarız. Kullanıcılarımızın fikirlerine değer verdiğimiz projemizde büyük ölçüde kullanıcı merkezli bir ekosistem
+kurmayı başardık.
 
 
 Neden BitLorem?:
-BitLorem, kendi geliştirdiği ürünler ile fintek sektöründe global bir
-şirket olmayı hedeflemektedir.
+BitLorem, kendi geliştirdiği ürünler ile blockchain sektöründe global bir
+şirket olmayı hedeflemektedir. 
+
 Misyonumuz: “Yeni Dünya teknolojilerinin sunduğu imkanlarla, dijital varlık odağında
 bir ekosistem yaratan, Türkiye’nin güncel ve güvenilir blockchain, kripto para gücü olmak.”
 Vizyonumuz: “Dünya üzerindeki en büyük 15 dijital varlık platformu statüsünde bir kripto para borsası
-ve kripto para birimi olmak.”
+ve ilk 10 sırada kripto para birimi olmak.”
 Ekibimizin tamamı en eski 7 yıl olmak üzere kripto para ve blockchain alanında uzman kişilerden oluşmaktadır.
 BHDB Topluluğumuzun 16 yıllık geçmişi, piyasa takibi, analizi ve yönlendirici gücü ile kullanıcılarımıza en özel 
 hizmeti sağlamayı hedeflemekteyiz.
 
 Hizmetlerimiz:
-BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. olarak finansal teknolojiler, blockchain ve kripto para 
+BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. olarak blockchain, kripto para borsası, kripto para birimi, analiz ve danışmanlık 
 alanında birçok servis sunmaktayız.
 Belirtilenlerle sınırlı olmamak kaydı ile servislerimiz şu şekildedir:
 (1) Dijital Varlık Alım-Satım Platformu Altyapısı: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti, güncel durumda yüz
-binlerce kullanıcıya kesintisiz ve güçlü hizmet verebilen BitLorem.com ürününün alt yapısını
-whitelabel olarak ihraç etmekteyiz.
-(b) Teknolojik Destek: Dijital varlık oluşturma ihtiyacı bulunan şirketlere ve bireylere çözümler
-sunmaktayız.
-(c) Ödeme Sistemleri: Firmamız bünyesinde ödeme sistemleri geliştirmekteyiz.
-(d) Eğitim Hizmetleri: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti., blockchain, kripto para ve analizleri konusunda edindiğimiz bilgi
+binlerce kullanıcıya kesintisiz ve güçlü hizmet verebilen BitLorem.com ürününün alt yapısını whitelabel olarak ihraç etmekteyiz.
+(2) Teknolojik Destek: Dijital varlık, kripto para borsası oluşturma ihtiyacı bulunan şirketlere ve bireylere çözümler sunmaktayız.
+(3) Ödeme Sistemleri: Firmamız bünyesinde ödeme sistemleri geliştirmekteyiz.
+(4) Eğitim Hizmetleri: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti., blockchain, kripto para ve analizleri konusunda edindiğimiz bilgi
 ve tecrübeleri kurum, kuruluş ve kamuoyuna aktarmaktayız.
+(5) Reklam Hizmetleri: Tecrübeli reklam ekibimiz ile kurumsal düzeyde profesyonel reklam seçenekleri sunmaktayız.
 
 
 BitLorem.com Dijital Varlık Alım Satım Platformu
@@ -89,7 +93,7 @@ protokolünü destekleyen tüm dijital varlık cüzdanlarında Lorem Coin (LRM) 
 Lorem Coin (LRM) 210,700,281,197 LRM adet oluşturulmuştur. 
 
 ● Toplam Arz Sistemi
-2021 Yılı Arz Miktarı => 2.500.000.000 LRM + Kampanya ve Pazarlama Bütçesi => 99.999.803/100.000.000
+2021 Yılı Arz Miktarı => 2.500.000.000 LRM + Kampanya ve Pazarlama Bütçesi %50 - (*P1 %50 ) => 99.999.803/100.000.000
 2022 Yılı Arz Miktarı => 5.000.000.000 LRM 
 2023 Yılı Arz Miktarı => 12.500.000.000 LRM
 2024 Yılı Arz Miktarı => 30.000.000.000 LRM
@@ -104,6 +108,13 @@ Arz tablosu kripto para piyasasında 6 yıldır devam eden analiz çalışmalar�
 planlanmıştır.
 Tüm Lorem Coin (LRM) projesi BHDB Bilişim Teknolojieri ve Yazılım Hizmetleri Tic. Ltd. Şti. güvencesi altındadır.
 
+*P1=Proje1 şirketimizin çevre şartları için Türkiye'de 7 farklı bölgede Lorem Ormanları , sokak hayvanları için barınma ve mama projesi, 
+81 ilde öğrenci bursu projesi 2021 yılı itibariyle projelendirmesi tamamlanmış olup faaliyete geçirilecektir.
+P1 ile alakalı genel bilgi. -Lorem Ormanları projemizi Haziran 2021 itibariyle,
+                            -Sokak hayvanlarına barınma hizmeti Ağustos 2021 itibariyle,
+                            -81 ilde öğrenci bursu projesi Eylül 2021 itibariyle,
+                            başlayacak olup proje hakkında projeler başladığı tarihte sosyal medya kanalı üzerinden projelerin her biri
+                            için ayrı ayrı duyuru kanalları üzerinden Lorem ailesi ve BHDB ailesine şefaflık politikası gereği paylaşılacaktır. 
 
 
 
