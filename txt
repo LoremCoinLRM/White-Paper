@@ -44,5 +44,47 @@ whitelabel olarak ihraç etmekteyiz.
 (b) Teknolojik Destek: Dijital varlık oluşturma ihtiyacı bulunan şirketlere ve bireylere çözümler
 sunmaktayız.
 (c) Ödeme Sistemleri: Firmamız bünyesinde ödeme sistemleri geliştirmekteyiz.
-(d) Eğitim Hizmetleri: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti, blockchain, kripto para ve analizleri konusunda edindiğimiz bilgi
+(d) Eğitim Hizmetleri: BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti., blockchain, kripto para ve analizleri konusunda edindiğimiz bilgi
 ve tecrübeleri kurum, kuruluş ve kamuoyuna aktarmaktayız.
+
+
+BitLorem.com Dijital Varlık Alım Satım Platformu
+Dijital varlık alım satım platformlarının sayısı son zamanlarda oldukça artış göstermiştir. Ancak
+birçok platform yetersiz altyapı desteği, yetersiz işlem çifti ve derinliği, topluluktan gelen geri
+dönüşlerin değerlendirilmemesi, kullanıcılara destek hizmeti sunulmaması, fiyat iniş-çıkışlarının 
+sert olduğu zamanlarda tahtaların kapanması gibi problemler ile kullanıcıların karşısına çıkmaktadır.
+● Üstün Altyapı Desteği
+Dijital varlık alım satım platformlarının ucuz maliyet ve zayıf yetkinlikte ekipler ile oluşturulması,
+kendi menfaatlerini ön plana koyması gibi sebepler ile sorunlar yaşanmaktadır. BitLorem.com ile
+yüz binlerce kullanıcı eş zamanlı olarak platformumuzda işlem gerçekleştirmiştir.
+BitLorem.com, siber güvenlik açısından da gerekli önlemleri almıştır ve bugüne kadar hiçbir çalıntı
+haberine konu olmamıştır. BitLorem.com, uzman geliştirici ekibi ile iç denetimlerini
+gerçekleştirmektedir ve üçüncü parti güvenlik şirketleri ile gerekli denetimleri periyodik olarak
+gerçekleştirmektedir.
+● Çok Sayıda İşlem Çifti ve Piyasa Derinliği
+2021 yılı itibari ile Dünya'da 10.000+ dijital varlık birçok platformda işlem görmektedir. Dijital varlık
+yatırımcıları her zaman en yeni dijital varlıklara ulaşma talebindedir. Birçok dijital varlık platformu
+kullanıcılarının bu konudaki talebini karşılayamamaktadır. 
+BitLorem.com üzerinde BTC, ETH ve LRM işlem çiftleri limit/piyasa
+emirlerinin işlevsel olduğu Koin/Token’ler mevcuttur. Platformumuzda yer alan kullanıcı deneyimi
+ve sonuçları açısından devrimsel bir nitelik taşıyan Hızlı Al/Sat özelliğimiz ile kullanıcılarımıza 
+anlık işlemler gerçekleştirme imkanı tanımaktayız.
+● Başarılı Müşteri Hizmetleri 
+BitLorem.com olarak kullanıcılarımıza 7/24 canlı destek sistemi ve sosyal medya
+kanallarımızdan ulaşma imkanı sunuyoruz. BitLorem.com platformunun yazılım geliştirme
+sürecinde ise kullanıcılarımızın bizlere belirttiği özellikleri ön plana alıyoruz. Birçok platformun
+aksine BitLorem olarak iletişimin kuvvetli olduğu ve etkileşim yüksek olduğu bir ekosistem
+oluşturuyoruz.
+
+
+Lorem Coin (LRM)
+● Lorem Coin (LRM) Hakkında
+Lorem Coin (LRM), BHDB Bilişim Teknolojileri ve Yazılım Hizmetleri Tic. Ltd. Şti. tarafından 
+oluşturulan ekosistemin en güçlü unsurudur.
+● Teknoloji
+Lorem Coin (LRM), Ethereum blokzinciri üzerinde ERC-20 protokolü ve
+0x16aa81a93996d29301005e17fa177aa5c834caf5 kontrat adresi üretilmiştir. ERC-20
+protokolünü destekleyen tüm dijital varlık cüzdanlarında Lorem Coin (LRM) saklanabilmektedir.
+● Lorem Coin (LRM) Ekonomisi
+Lorem Coin (LRM) 210,700,281,197 LRM adet oluşturulmuştur. 
+
